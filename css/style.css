@@ -1,0 +1,6 @@
+body{background: #000;}
+h1{font-family:Helvetica,"Helvetica Neue",Arial, sans-serif;font-size:6em;color:#fff;text-align:center;}
+a{text-decoration:none; color: #fff;}
+a:hover{text-decoration:none;color: #333;}
+#nope{margin:20% auto;}
+#yep{margin:20% auto;}
